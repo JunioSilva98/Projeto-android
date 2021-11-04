@@ -39,7 +39,7 @@ font-family: var(--fonte-padrao);}
 a.externo::after {content: '\2893';}
 
 header {
-        background-color: var(--cor04);
+        background-image: linear-gradient(to top,#1a5c37,#2fa866) ;
         min-height: 150px;
         text-align: center;
         padding-bottom: 8px;}
