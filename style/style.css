@@ -68,7 +68,7 @@ nav > a { color: white;
          padding: 10px 10px 10px 10px;
          border-radius: 5px;
          text-decoration: none;
-         font-weight: bold;}    
+         font-weight: lighter;}    
 
 nav > a:hover {background-color: var(--cor02);}
 
@@ -86,9 +86,10 @@ main > p span {background-color:var(--cor02);}
 
 main img {width: 100%;}
 
-main img.imgs {width: 50%;
-display: block;    
-margin: auto;}
+main img.imgs {
+    width: 50%;
+    display: block;    
+    margin: auto;}
 
 div.video {background-color: var(--cor01);
 margin: 0px -19px 30px -19px;
